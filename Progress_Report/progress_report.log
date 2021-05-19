@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.3.26)  17 MAY 2021 16:53
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.3.26)  19 MAY 2021 17:23
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -102,9 +102,7 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <24> not available
 \IEEEPARstartletwidth=\dimen157
 \c@IEEEbiography=\count181
 \@IEEEtranrubishbin=\box46
-)
-** ATTENTION: Overriding command lockouts (line 2).
-(/usr/share/texlive/texmf-dist/tex/latex/cite/cite.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/cite/cite.sty
 LaTeX Info: Redefining \cite on input line 302.
 LaTeX Info: Redefining \nocite on input line 332.
 Package: cite 2015/02/27  v 5.5
@@ -224,20 +222,20 @@ File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
 ) (/home/mike/conference_paper/Progress_Report/progress_report.aux)
 \openout1 = `progress_report.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
 
 -- Lines per column: 56 (exact).
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
@@ -259,15 +257,45 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
  (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
+LaTeX Font Info:    Calculating math sizes for size <11> on input line 30.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 30.
+ (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 30.
+ (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+<Pictures/rviz_screenshot_2021_03_22-16_01_59.png, id=1, 1367.1075pt x 642.90187pt>
+File: Pictures/rviz_screenshot_2021_03_22-16_01_59.png Graphic file (type png)
+<use Pictures/rviz_screenshot_2021_03_22-16_01_59.png>
+Package pdftex.def Info: Pictures/rviz_screenshot_2021_03_22-16_01_59.png  used on input line 43.
+(pdftex.def)             Requested size: 258.00085pt x 121.32858pt.
+<Pictures/05.jpg, id=2, 786.2976pt x 598.1547pt>
+File: Pictures/05.jpg Graphic file (type jpg)
+<use Pictures/05.jpg>
+Package pdftex.def Info: Pictures/05.jpg  used on input line 60.
+(pdftex.def)             Requested size: 258.00327pt x 196.26903pt.
+<Pictures/onto.png, id=3, 343.2825pt x 904.37875pt>
+File: Pictures/onto.png Graphic file (type png)
+<use Pictures/onto.png>
+Package pdftex.def Info: Pictures/onto.png  used on input line 70.
+(pdftex.def)             Requested size: 51.01347pt x 134.39519pt.
+ [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
-LaTeX Warning: No \author given.
 
-
-LaTeX Warning: No \author given.
-
-
-LaTeX Warning: No \author given.
-
+ </home/mike/conference_paper/Progress_Report/Pictures/rviz_screenshot_2021_03_22-16_01_59.png (PNG copy)> </home/mike/conference_paper/Progress_Report/Pictures/05.jpg> </home/mike/conference_paper/Progress_Report/Pictures/onto.png>]
+<Pictures/NRF6943.jpg, id=13, 420.48pt x 420.48pt>
+File: Pictures/NRF6943.jpg Graphic file (type jpg)
+<use Pictures/NRF6943.jpg>
+Package pdftex.def Info: Pictures/NRF6943.jpg  used on input line 88.
+(pdftex.def)             Requested size: 134.39594pt x 134.39594pt.
+<Pictures/overview_ROS.png, id=14, 1270.7475pt x 290.58563pt>
+File: Pictures/overview_ROS.png Graphic file (type png)
+<use Pictures/overview_ROS.png>
+Package pdftex.def Info: Pictures/overview_ROS.png  used on input line 103.
+(pdftex.def)             Requested size: 258.0036pt x 58.99844pt.
+ (/home/mike/conference_paper/Progress_Report/progress_report.bbl)
 
 ** Conference Paper **
 Before submitting the final camera ready copy, remember to:
@@ -279,24 +307,22 @@ Before submitting the final camera ready copy, remember to:
  uses only Type 1 fonts and that every step in the generation
  process uses the appropriate paper size.
 
-[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
+[2
 
-
-
-] (/home/mike/conference_paper/Progress_Report/progress_report.aux) ) 
+ </home/mike/conference_paper/Progress_Report/Pictures/NRF6943.jpg> </home/mike/conference_paper/Progress_Report/Pictures/overview_ROS.png>] (/home/mike/conference_paper/Progress_Report/progress_report.aux) ) 
 Here is how much of TeX's memory you used:
- 3775 strings out of 481239
- 54466 string characters out of 5920377
- 293232 words of memory out of 5000000
- 19039 multiletter control sequences out of 15000+600000
- 557288 words of font info for 68 fonts, out of 8000000 for 9000
+ 3890 strings out of 481239
+ 56543 string characters out of 5920377
+ 299795 words of memory out of 5000000
+ 19123 multiletter control sequences out of 15000+600000
+ 566504 words of font info for 95 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 30i,8n,37p,282b,240s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb>
-Output written on /home/mike/conference_paper/Progress_Report/progress_report.pdf (1 page, 15444 bytes).
+ 30i,11n,37p,665b,304s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb>
+Output written on /home/mike/conference_paper/Progress_Report/progress_report.pdf (2 pages, 8052577 bytes).
 PDF statistics:
- 13 PDF objects out of 1000 (max. 8388607)
- 8 compressed objects within 1 object stream
+ 28 PDF objects out of 1000 (max. 8388607)
+ 14 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 26 words of extra memory for PDF output out of 10000 (max. 10000000)
 
