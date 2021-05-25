@@ -31,6 +31,18 @@ Sphinx home page. [Online]. Available: \url{https://cmusphinx.github.io/}
 Picovoice homepage. [Online]. Available: \url{https://picovoice.ai/}
 \BIBentrySTDinterwordspacing
 
+\bibitem{porcupine}
+\BIBentryALTinterwordspacing
+Porcupine introduction web page. [Online]. Available:
+  \url{https://picovoice.ai/docs/porcupine/}
+\BIBentrySTDinterwordspacing
+
+\bibitem{rhino}
+\BIBentryALTinterwordspacing
+Rhino introduction web page. [Online]. Available:
+  \url{https://picovoice.ai/docs/rhino/}
+\BIBentrySTDinterwordspacing
+
 \bibitem{thingy}
 \BIBentryALTinterwordspacing
 Thingy91 web-page. [Online]. Available:

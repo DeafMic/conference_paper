@@ -1,15 +1,15 @@
 # Fdb version 3
-["bibtex progress_report"] 1621437719 "progress_report.aux" "progress_report.bbl" "progress_report" 1621437832
+["bibtex progress_report"] 1621963471 "progress_report.aux" "progress_report.bbl" "progress_report" 1621963472
   "/usr/share/texlive/texmf-dist/bibtex/bst/IEEEtran/IEEEtran.bst" 1440712899 57748 7c8250ecf02814ce6ddc0cdbb63df1dd ""
-  "biblio.bib" 1621436119 509 f4163d6abbb37f933c0bb36eb4b01434 ""
-  "progress_report.aux" 1621437832 1700 fee5913e8577b7c12ff38915b69128f1 "pdflatex"
+  "biblio.bib" 1621963419 1006 48abdcdd432eec924381df8f9efe1aed ""
+  "progress_report.aux" 1621963472 2115 59e90a6ad45733caccfc4fd00844bc63 "pdflatex"
   (generated)
   "progress_report.bbl"
   "progress_report.blg"
-["pdflatex"] 1621437831 "/home/mike/conference_paper/Progress_Report/progress_report.tex" "/home/mike/conference_paper/Progress_Report/progress_report.pdf" "progress_report" 1621437832
+["pdflatex"] 1621963471 "/home/mike/conference_paper/Progress_Report/progress_report.tex" "/home/mike/conference_paper/Progress_Report/progress_report.pdf" "progress_report" 1621963472
   "/etc/texmf/web2c/texmf.cnf" 1616768696 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/mike/conference_paper/Progress_Report/progress_report.aux" 1621437832 1700 fee5913e8577b7c12ff38915b69128f1 ""
-  "/home/mike/conference_paper/Progress_Report/progress_report.tex" 1621437831 5371 3c93d42f83a362184f794cd677c3740f ""
+  "/home/mike/conference_paper/Progress_Report/progress_report.aux" 1621963472 2115 59e90a6ad45733caccfc4fd00844bc63 ""
+  "/home/mike/conference_paper/Progress_Report/progress_report.tex" 1621963470 7658 8835f3be8fc06b5a1475346aed132de1 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/adobe/times/ptmb7t.tfm" 1136768653 2172 fd0c924230362ff848a33632ed45dc23 ""
@@ -72,15 +72,16 @@
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1616768797 8256642 9e2c4dfe8f2b541d8505470ee33b9d2d ""
   "Pictures/05.jpg" 1621428487 7491332 93e08755ad1a8f6828e2d5082e4a84d8 ""
   "Pictures/NRF6943.jpg" 1621434092 57698 15a44eb0cf1ffca0d1a345d46824a754 ""
+  "Pictures/nrfCloud.png" 1621959464 113381 365e7330464e0352dc13ea0bf004aa94 ""
   "Pictures/onto.png" 1621428487 28702 829f9225a029997550c7e1f7bad62d21 ""
   "Pictures/overview_ROS.png" 1621428487 89264 cf6f429f43448f604975ede91713b92a ""
   "Pictures/rviz_screenshot_2021_03_22-16_01_59.png" 1621428487 379256 7cd835fc8f9655f2d295981158b91ff8 ""
-  "progress_report.aux" 1621437832 1700 fee5913e8577b7c12ff38915b69128f1 "pdflatex"
-  "progress_report.bbl" 1621437719 1368 7be58c9fef9d899c804b883ae64ab4d9 "bibtex progress_report"
-  "progress_report.tex" 1621437831 5371 3c93d42f83a362184f794cd677c3740f ""
+  "progress_report.aux" 1621963472 2115 59e90a6ad45733caccfc4fd00844bc63 "pdflatex"
+  "progress_report.bbl" 1621963471 1712 9013d6240e2270114225650229ff5fc1 "bibtex progress_report"
+  "progress_report.tex" 1621963470 7658 8835f3be8fc06b5a1475346aed132de1 ""
   (generated)
   "progress_report.log"
-  "progress_report.aux"
-  "progress_report.pdf"
-  "/home/mike/conference_paper/Progress_Report/progress_report.pdf"
   "/home/mike/conference_paper/Progress_Report/progress_report.log"
+  "progress_report.aux"
+  "/home/mike/conference_paper/Progress_Report/progress_report.pdf"
+  "progress_report.pdf"

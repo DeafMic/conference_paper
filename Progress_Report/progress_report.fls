@@ -147,6 +147,9 @@ INPUT /usr/share/texlive/texmf-dist/fonts/vf/adobe/times/ptmr7t.vf
 INPUT /home/mike/conference_paper/Progress_Report/Pictures/NRF6943.jpg
 INPUT /home/mike/conference_paper/Progress_Report/Pictures/NRF6943.jpg
 INPUT /home/mike/conference_paper/Progress_Report/Pictures/NRF6943.jpg
+INPUT /home/mike/conference_paper/Progress_Report/Pictures/nrfCloud.png
+INPUT /home/mike/conference_paper/Progress_Report/Pictures/nrfCloud.png
+INPUT /home/mike/conference_paper/Progress_Report/Pictures/nrfCloud.png
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
